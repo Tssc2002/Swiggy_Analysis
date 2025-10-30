@@ -168,6 +168,5 @@ Interactive dashboard featuring:
 
 **Sri Sai Chowadry Thati**  
 Data Analyst | SQL | Power BI | Excel | Python  
+srisaichowdary1210@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sri-sai-chowadry-thati)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Tssc2002)
